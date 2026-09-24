@@ -1,0 +1,23 @@
+{
+  "repo": "microstation-complete",
+  "product": "MicroStation Complete",
+  "kind": "cad",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "engineering-cad",
+  "topics": [
+    "microstation",
+    "microstation-windows",
+    "engineering-cad-desktop",
+    "how-to-install-microstation",
+    "microstation-desktop-package",
+    "microstation-workspace",
+    "microstation-pro-tools",
+    "microstation-suite",
+    "zentool-microstation",
+    "microstation-tool-9"
+  ],
+  "site": "zentool.art"
+}
